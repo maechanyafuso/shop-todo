@@ -1,0 +1,30 @@
+.container {
+    background-color: white;
+  }
+  .sample_h_4{
+    font-size: 2em;/* フォントサイズ */
+    font-weight: bold;/* フォント太さ */
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+    border-top: 3px solid #3f9613;/* 上の線 */
+    border-bottom: 3px solid #409614;/* 下の線 */
+    color: #e7a2a2;/* フォント色 */
+    text-align: center;/* テキストの位置 */
+   }
+
+
+
+.nav-item a {
+color: rgb(250, 164, 124);
+}
+/* .card {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    width: 800px;
+    height: 500px;
+    border: 5px solid #000;
+    padding: 15px;
+    margin: 0 auto;
+  } */
